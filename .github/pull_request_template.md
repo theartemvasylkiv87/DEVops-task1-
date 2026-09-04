@@ -13,7 +13,7 @@ assign the user softservedata as the code owner for all the files in the main br
 
 Add template (pull_request_template.md) to .github directory for creating issue +
 
-Create project for this repository.
+Create project for this repository. +
 
 Add deploy key with name DEPLOY_KEY to your repository. +
 
