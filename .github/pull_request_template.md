@@ -4,7 +4,7 @@ Add user softservedata to this repository. +
 
 Create branch develop as default branch. + 
 
-Protect branches main and develop with these rules:
+Protect branches main and develop with these rules: +
 
 user can't merge to both branches without pull request
 allowed to merge to develop branch only if we have 2 approvals
@@ -26,7 +26,7 @@ add to repository actions secrets key with the name PAT and the value of the cre
 ## Issue ticket number and link
 
 ## Checklist before requesting a review
-- [ ] I have performed a self-review of my code
+- [ ] I have performed a self-review of my code 
 - [ ] If it is a core feature, I have added thorough tests
 - [ ] Do we need to implement analytics?
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update
